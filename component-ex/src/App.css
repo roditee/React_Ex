@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+header {width:1000; height:500; background-color: rgb(142, 190, 142);}
+article {width:1000; height:700; background-color: rgb(96, 172, 89);}
+footer {width:1000; height:300; background-color: rgb(49, 105, 63);}
+
+h1 {color:rgb(22, 68, 97);}
+article div {width:500; height:300; background-color: rgb(204, 214, 62);}
+button {background-color: firebrick;}
