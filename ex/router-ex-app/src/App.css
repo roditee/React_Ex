@@ -1,0 +1,17 @@
+.home {
+  text-align: center;
+  height: 40px;
+  line-height: 40px;
+  background-color: #ccc;
+  padding: 0;
+  margin-top: 10px;
+}
+
+.about {
+  text-align: center;
+  height: 40px;
+  line-height: 40px;
+  background-color: #ccc;
+  padding: 0;
+  margin-top: 10px;
+}

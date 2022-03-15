@@ -4,3 +4,10 @@
   height: 100px;
   margin: 10px;
 }
+
+button {
+  background: rgb(219, 219, 219);
+  border: none;
+  font-size: 20px;
+  border-radius: 50px;
+}

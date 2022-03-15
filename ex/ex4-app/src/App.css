@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.content1 {
+  height: 40px;
+  line-height: 40px;
+  background-color: bisque;
+}
+
+.content2 {
+  height: 40px;
+  line-height: 40px;
+  background-color: rgb(228, 200, 167);
+}
