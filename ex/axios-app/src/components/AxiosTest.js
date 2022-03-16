@@ -18,7 +18,7 @@ function AxiosTest() {
     }
 
     // 렌더링할때마다 호출
-    // 빈 배열 : loadData
+    // 빈 배열 : loadData() 한 번만 호출
     useEffect( () => {
         loadData();
     }, []);
